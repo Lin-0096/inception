@@ -1,0 +1,7 @@
+*
+!conf/
+!conf/default.conf.template
+!tools/
+!tools/entrypoint.sh
+!Dockerfile
+

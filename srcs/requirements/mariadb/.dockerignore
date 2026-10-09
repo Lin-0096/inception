@@ -1,0 +1,7 @@
+*
+!conf/
+!conf/50-server.cnf
+!tools/
+!tools/entrypoint.sh
+!Dockerfile
+
